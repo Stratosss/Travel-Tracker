@@ -15,3 +15,4 @@ This application displays a world map, with the user's visited countries in pain
   - npm i body-parser
   - npm i pg
   
+![Screenshot 2024-05-08 110024](https://github.com/Stratosss/Travel-Tracker/assets/157527268/553b2714-4cb3-4205-ae5b-2f9f7f84e467)
