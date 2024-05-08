@@ -9,9 +9,9 @@ This application displays a world map, with the user's visited countries in pain
   -- A code editor like VS Code,
   -- A database like postgreSQL. Create an account and store the password (it is required to link the app with the database).
 - Install the following packages:
-  -- npm init -y
-  -- npm i express
-  -- npm i ejs
-  -- npm i body-parser
-  -- npm i pg
+-- npm init -y
+-- npm i express
+-- npm i ejs
+-- npm i body-parser
+-- npm i pg
   
